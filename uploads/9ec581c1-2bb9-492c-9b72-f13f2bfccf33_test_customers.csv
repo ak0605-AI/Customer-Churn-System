@@ -1,0 +1,4 @@
+customer_id,customer_name,age,monthly_charges,total_charges,contract_length,support_calls,payment_method,internet_service,customer_satisfaction
+    CUST001,John Smith,35,65.5,1500.5,12,2,Credit Card,Fiber,8
+    CUST002,Jane Doe,28,89.2,2800.0,24,5,Bank Transfer,DSL,6
+    CUST003,Bob Johnson,45,120.0,5200.0,36,1,Credit Card,Fiber,9
